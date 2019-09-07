@@ -23,17 +23,3 @@ $ git commit -m 'first'
 
 FALLATAH@DESKTOP-AG53AST MINGW64 /f/project (master)
 $ git remote add origin https://github.com/mfallatah/my-project.git
-
-FALLATAH@DESKTOP-AG53AST MINGW64 /f/project (master)
-$ git push origin master
-Enumerating objects: 3, done.
-Counting objects: 100% (3/3), done.
-Delta compression using up to 4 threads
-Compressing objects: 100% (2/2), done.
-Writing objects: 100% (3/3), 225 bytes | 32.00 KiB/s, done.
-Total 3 (delta 0), reused 0 (delta 0)
-To https://github.com/mfallatah/my-project.git
- * [new branch]      master -> master
-
-FALLATAH@DESKTOP-AG53AST MINGW64 /f/project (master)
-$
