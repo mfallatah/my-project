@@ -1,0 +1,79 @@
+
+<!DOCTYPE html>
+<p>
+mohammed ibrahim ahmed  fallatah<br/><em>mohammed <mark>fallatah</mark></em>
+</p>
+
+<sub> 3</sub>
+
+<sup>  7 </sup>
+<br>
+<strong>mohammed</strong>
+<hr>
+<ol>mohammed</ol>
+<ol>ibrahim </ol>
+<ol>ahmed</ol>
+<ul>mohammrd</ul>
+
+<div id="main-artical">
+Css makes puppies giggle
+</div>
+
+<div id="main-artical"> Okay not eeally"</div>
+<div>
+    <p>Call me Ishmael.</p>
+    <p>Just don't call me late for dinner.</p>
+  </div>
+
+  <h2 style="color:blue">How to bick your staff</h2>
+  <ol>
+  <li>pack up your staff</li>
+  <ul>
+      <li>take student</li>
+      <li>take managers</li>
+      <li>take staff</li>
+  </ul>
+  <li>seleprate with kids</li>
+  <ul>
+<li style="color:green">take them to the garden</li>
+<li style="color:gray">take them to the studime</li>
+<li>engoy with him</li>
+  </ul>
+  </ol>
+  <p style="color:red;">This text 
+    inside the first paragraph element - and it is blue as appear</p>
+    <a href="http://google.com.sa">Google</a>
+    <img src="http://fakeurl.example.net/fish.png" alt="FISH">
+<style>
+    p {color:blue;}
+</style>
+<p> I am blue</p>
+<p style="text-align:center"><em>this title is not direct</em></p>
+<br />
+<p class=" iner">this is a pragraph with a class</p>
+
+<style>
+    #into {color:brown;text-align:center}
+
+</style>
+<p id="into">Mohammed Ibrahim Fallatah</p>
+<p id="into">بسم الله الرحمن الرحيم</p>
+<ol>1</ol>
+
+<style>
+    li{
+        font-size:1.5em;}
+    .highlight{background-color: yellow;}
+    .done{text-decoration: line-through;}
+</style>
+<ul>
+    <li> Buy milk
+    <li class="highlight"> Buy eggs
+    <li> Buy flour
+    <li> Make waffels
+    <li class="done"> Do loundary
+    <li> Build a robot
+    <link class="highlight"> Learn to code
+
+
+</ul>
